@@ -1,0 +1,408 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TartLabs Testing Library app - snapshot testing" 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div
+          class="App-Header py-3"
+        >
+          <div
+            class="container"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-dark"
+            >
+              <div
+                class="container-fluid"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/"
+                >
+                  Navbar scroll
+                </a>
+                <button
+                  aria-controls="navbarScroll"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="navbarScroll"
+                >
+                  <div
+                    class="me-auto my-2 my-lg-0 navbar-nav navbar-nav-scroll"
+                    style="max-height: 100px;"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/posts"
+                      href="/posts"
+                    >
+                      Posts
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/posts/new"
+                      href="/posts/new"
+                    >
+                      Add Posts
+                    </a>
+                    <div
+                      class="nav-item dropdown"
+                    >
+                      <a
+                        aria-expanded="false"
+                        class="dropdown-toggle nav-link"
+                        href="#"
+                        id="navbarScrollingDropdown"
+                        role="button"
+                        tabindex="0"
+                      >
+                        Others
+                      </a>
+                    </div>
+                  </div>
+                  <form
+                    class="d-flex"
+                  >
+                    <input
+                      aria-label="Search"
+                      class="me-2 form-control"
+                      placeholder="Search"
+                      type="search"
+                    />
+                    <button
+                      class="btn btn-success"
+                      type="button"
+                    >
+                      Search
+                    </button>
+                  </form>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
+        <div
+          class="App-Container container"
+        >
+          <div
+            class="bg-white rounded shadow p-4 overflow-hidden mb-4"
+          >
+            <button
+              class="px-2 btn btn-primary"
+              type="button"
+            >
+              Users List
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-secondary"
+              type="button"
+            >
+              Add Post
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-success"
+              type="button"
+            >
+              Posts List
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-warning"
+              type="button"
+            >
+              Users Posts
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-danger"
+              type="button"
+            >
+              Comments List
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-info"
+              type="button"
+            >
+              Tag List
+            </button>
+             
+            <button
+              class="px-2 btn btn-outline-dark"
+              type="button"
+            >
+              Post by Tag
+            </button>
+             
+          </div>
+          <div
+            class="mb-5"
+          >
+            <div
+              class="grid gap-4 grid-cols-2 md:grid-cols-2"
+            />
+          </div>
+          <div
+            class="bg-white rounded shadow p-4 overflow-hidden mb-4 "
+          >
+            Created by 
+            <span
+              class="font-bold"
+            >
+              Developers
+            </span>
+             for
+             
+            <span
+              class="font-bold"
+            >
+              Developers
+            </span>
+            . © 2022
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div
+        class="App-Header py-3"
+      >
+        <div
+          class="container"
+        >
+          <nav
+            class="navbar navbar-expand-lg navbar-dark"
+          >
+            <div
+              class="container-fluid"
+            >
+              <a
+                class="navbar-brand"
+                href="/"
+              >
+                Navbar scroll
+              </a>
+              <button
+                aria-controls="navbarScroll"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="navbarScroll"
+              >
+                <div
+                  class="me-auto my-2 my-lg-0 navbar-nav navbar-nav-scroll"
+                  style="max-height: 100px;"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/posts"
+                    href="/posts"
+                  >
+                    Posts
+                  </a>
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/posts/new"
+                    href="/posts/new"
+                  >
+                    Add Posts
+                  </a>
+                  <div
+                    class="nav-item dropdown"
+                  >
+                    <a
+                      aria-expanded="false"
+                      class="dropdown-toggle nav-link"
+                      href="#"
+                      id="navbarScrollingDropdown"
+                      role="button"
+                      tabindex="0"
+                    >
+                      Others
+                    </a>
+                  </div>
+                </div>
+                <form
+                  class="d-flex"
+                >
+                  <input
+                    aria-label="Search"
+                    class="me-2 form-control"
+                    placeholder="Search"
+                    type="search"
+                  />
+                  <button
+                    class="btn btn-success"
+                    type="button"
+                  >
+                    Search
+                  </button>
+                </form>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div
+        class="App-Container container"
+      >
+        <div
+          class="bg-white rounded shadow p-4 overflow-hidden mb-4"
+        >
+          <button
+            class="px-2 btn btn-primary"
+            type="button"
+          >
+            Users List
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-secondary"
+            type="button"
+          >
+            Add Post
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-success"
+            type="button"
+          >
+            Posts List
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-warning"
+            type="button"
+          >
+            Users Posts
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-danger"
+            type="button"
+          >
+            Comments List
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-info"
+            type="button"
+          >
+            Tag List
+          </button>
+           
+          <button
+            class="px-2 btn btn-outline-dark"
+            type="button"
+          >
+            Post by Tag
+          </button>
+           
+        </div>
+        <div
+          class="mb-5"
+        >
+          <div
+            class="grid gap-4 grid-cols-2 md:grid-cols-2"
+          />
+        </div>
+        <div
+          class="bg-white rounded shadow p-4 overflow-hidden mb-4 "
+        >
+          Created by 
+          <span
+            class="font-bold"
+          >
+            Developers
+          </span>
+           for
+           
+          <span
+            class="font-bold"
+          >
+            Developers
+          </span>
+          . © 2022
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

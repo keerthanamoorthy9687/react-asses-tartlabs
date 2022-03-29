@@ -1,0 +1,9 @@
+export const GET_POSTS = "GET_POSTS";
+export const EDIT_POSTS = "EDIT_POSTS";
+export const DELETE_POSTS = "DELETE_POSTS";
+export const ADD_POSTS = "ADD_POSTS";
+export const UPDATE_POSTS = "UPDATE_POSTS";
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
+export const COMMENT_POSTS = "COMMENT_POSTS";
+export const FILTER_POSTS = "FILTER_POSTS";
